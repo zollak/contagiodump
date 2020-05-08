@@ -14,3 +14,4 @@ pip install -r requirements.txt
 python get_files.py
 deactivate
 ```
+You can find more info about the files on the Contagio Malware Dump page: http://contagiomobile.deependresearch.org
